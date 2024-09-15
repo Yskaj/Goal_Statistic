@@ -1,18 +1,20 @@
 package org.statistic_goal;
 
-import java.util.HashMap;
+import java.util.*;
 
 public class ComandStatistic {
     String name;
     int goals_scored;
     int goals_missed;
-    HashMap<String, Goal> scorers; //Список забивших игроков
+    Map<String, Goal> scorers; //Список забивших игроков
+    String bestScorer;
+    int bestGoal;
 
     public ComandStatistic(String name) {
         this.name = name;
         this.goals_scored = 0;
         this.goals_missed = 0;
-        this.scorers = new HashMap<>();
+        this.scorers = new TreeMap<>();
     }
 
     public void addGoal(String scorerName, boolean penalty) {//Команда забила гол
@@ -28,6 +30,7 @@ public class ComandStatistic {
             goals.goals++;
             if (penalty) goals.penalty++;
         }
+        computeBestScorer();
     }
 
     void addMissed(String nameScorer) { // Команде забили Автогол
@@ -37,9 +40,20 @@ public class ComandStatistic {
         } else {
             scorers.put(nameScorer, new Goal(1, 0));
         }
+        computeBestScorer();
     }
+
     void addMissed() { // Команде забили гол
         goals_missed++;
+    }
+
+    public List<String> getComandData() {
+        return new ArrayList<>(Arrays.asList(name, String.valueOf(goals_scored),
+                String.valueOf(goals_missed),bestScorer,String.valueOf(bestGoal)));
+    }
+    private void computeBestScorer(){
+        bestScorer = Collections.max(scorers.entrySet(), Map.Entry.comparingByValue()).getKey();
+        bestGoal = scorers.get(bestScorer).goals;
     }
 }
 
@@ -60,3 +74,4 @@ class Goal implements Comparable<Goal> {
         return (this.goals > o.goals) ? 1 : -1;
     }
 }
+
