@@ -1,0 +1,1982 @@
+[
+    {
+        "team": "Brazil",
+        "goals_scored": "1033",
+        "goals_missed": "438",
+        "top_scorer": {
+            "name": "Ronaldo",
+            "goals_scored": "39"
+        }
+    },
+    {
+        "team": "Germany",
+        "goals_scored": "953",
+        "goals_missed": "398",
+        "top_scorer": {
+            "name": "Miroslav Klose",
+            "goals_scored": "48"
+        }
+    },
+    {
+        "team": "Argentina",
+        "goals_scored": "935",
+        "goals_missed": "446",
+        "top_scorer": {
+            "name": "Lionel Messi",
+            "goals_scored": "55"
+        }
+    },
+    {
+        "team": "Spain",
+        "goals_scored": "870",
+        "goals_missed": "349",
+        "top_scorer": {
+            "name": "David Villa",
+            "goals_scored": "41"
+        }
+    },
+    {
+        "team": "Netherlands",
+        "goals_scored": "839",
+        "goals_missed": "342",
+        "top_scorer": {
+            "name": "Robin van Persie",
+            "goals_scored": "35"
+        }
+    },
+    {
+        "team": "Mexico",
+        "goals_scored": "836",
+        "goals_missed": "407",
+        "top_scorer": {
+            "name": "Jared Borgetti",
+            "goals_scored": "37"
+        }
+    },
+    {
+        "team": "Uruguay",
+        "goals_scored": "793",
+        "goals_missed": "513",
+        "top_scorer": {
+            "name": "Luis Suárez",
+            "goals_scored": "47"
+        }
+    },
+    {
+        "team": "England",
+        "goals_scored": "752",
+        "goals_missed": "289",
+        "top_scorer": {
+            "name": "Harry Kane",
+            "goals_scored": "58"
+        }
+    },
+    {
+        "team": "France",
+        "goals_scored": "745",
+        "goals_missed": "372",
+        "top_scorer": {
+            "name": "Kylian Mbappé",
+            "goals_scored": "38"
+        }
+    },
+    {
+        "team": "Italy",
+        "goals_scored": "701",
+        "goals_missed": "332",
+        "top_scorer": {
+            "name": "Filippo Inzaghi",
+            "goals_scored": "22"
+        }
+    },
+    {
+        "team": "Portugal",
+        "goals_scored": "690",
+        "goals_missed": "361",
+        "top_scorer": {
+            "name": "Cristiano Ronaldo",
+            "goals_scored": "108"
+        }
+    },
+    {
+        "team": "Belgium",
+        "goals_scored": "668",
+        "goals_missed": "428",
+        "top_scorer": {
+            "name": "Romelu Lukaku",
+            "goals_scored": "60"
+        }
+    },
+    {
+        "team": "Russia",
+        "goals_scored": "625",
+        "goals_missed": "310",
+        "top_scorer": {
+            "name": "Artem Dzyuba",
+            "goals_scored": "27"
+        }
+    },
+    {
+        "team": "Sweden",
+        "goals_scored": "623",
+        "goals_missed": "391",
+        "top_scorer": {
+            "name": "Zlatan Ibrahimović",
+            "goals_scored": "44"
+        }
+    },
+    {
+        "team": "Australia",
+        "goals_scored": "599",
+        "goals_missed": "219",
+        "top_scorer": {
+            "name": "Tim Cahill",
+            "goals_scored": "36"
+        }
+    },
+    {
+        "team": "Hungary",
+        "goals_scored": "579",
+        "goals_missed": "463",
+        "top_scorer": {
+            "name": "Ferenc Bene",
+            "goals_scored": "25"
+        }
+    },
+    {
+        "team": "Chile",
+        "goals_scored": "570",
+        "goals_missed": "600",
+        "top_scorer": {
+            "name": "Alexis Sánchez",
+            "goals_scored": "30"
+        }
+    },
+    {
+        "team": "Denmark",
+        "goals_scored": "562",
+        "goals_missed": "400",
+        "top_scorer": {
+            "name": "Jon Dahl Tomasson",
+            "goals_scored": "36"
+        }
+    },
+    {
+        "team": "Romania",
+        "goals_scored": "536",
+        "goals_missed": "352",
+        "top_scorer": {
+            "name": "Gheorghe Hagi",
+            "goals_scored": "27"
+        }
+    },
+    {
+        "team": "Poland",
+        "goals_scored": "531",
+        "goals_missed": "373",
+        "top_scorer": {
+            "name": "Robert Lewandowski",
+            "goals_scored": "63"
+        }
+    },
+    {
+        "team": "Switzerland",
+        "goals_scored": "528",
+        "goals_missed": "415",
+        "top_scorer": {
+            "name": "Kubilay Türkyilmaz",
+            "goals_scored": "26"
+        }
+    },
+    {
+        "team": "United States",
+        "goals_scored": "528",
+        "goals_missed": "373",
+        "top_scorer": {
+            "name": "Clint Dempsey",
+            "goals_scored": "41"
+        }
+    },
+    {
+        "team": "Austria",
+        "goals_scored": "515",
+        "goals_missed": "405",
+        "top_scorer": {
+            "name": "Toni Polster",
+            "goals_scored": "29"
+        }
+    },
+    {
+        "team": "Paraguay",
+        "goals_scored": "505",
+        "goals_missed": "565",
+        "top_scorer": {
+            "name": "Roque Santa Cruz",
+            "goals_scored": "21"
+        }
+    },
+    {
+        "team": "Costa Rica",
+        "goals_scored": "470",
+        "goals_missed": "332",
+        "top_scorer": {
+            "name": "Paulo Wanchope",
+            "goals_scored": "37"
+        }
+    },
+    {
+        "team": "Iran",
+        "goals_scored": "464",
+        "goals_missed": "177",
+        "top_scorer": {
+            "name": "Ali Daei",
+            "goals_scored": "49"
+        }
+    },
+    {
+        "team": "Scotland",
+        "goals_scored": "455",
+        "goals_missed": "370",
+        "top_scorer": {
+            "name": "John McGinn",
+            "goals_scored": "16"
+        }
+    },
+    {
+        "team": "South Korea",
+        "goals_scored": "452",
+        "goals_missed": "259",
+        "top_scorer": {
+            "name": "Son Heung-min",
+            "goals_scored": "25"
+        }
+    },
+    {
+        "team": "Japan",
+        "goals_scored": "447",
+        "goals_missed": "222",
+        "top_scorer": {
+            "name": "Kazuyoshi Miura",
+            "goals_scored": "30"
+        }
+    },
+    {
+        "team": "Turkey",
+        "goals_scored": "446",
+        "goals_missed": "458",
+        "top_scorer": {
+            "name": "Hakan Şükür",
+            "goals_scored": "39"
+        }
+    },
+    {
+        "team": "Bulgaria",
+        "goals_scored": "428",
+        "goals_missed": "423",
+        "top_scorer": {
+            "name": "Dimitar Berbatov",
+            "goals_scored": "28"
+        }
+    },
+    {
+        "team": "Peru",
+        "goals_scored": "425",
+        "goals_missed": "532",
+        "top_scorer": {
+            "name": "Paolo Guerrero",
+            "goals_scored": "25"
+        }
+    },
+    {
+        "team": "Republic of Ireland",
+        "goals_scored": "425",
+        "goals_missed": "377",
+        "top_scorer": {
+            "name": "Robbie Keane",
+            "goals_scored": "44"
+        }
+    },
+    {
+        "team": "Colombia",
+        "goals_scored": "405",
+        "goals_missed": "425",
+        "top_scorer": {
+            "name": "James Rodríguez",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Norway",
+        "goals_scored": "393",
+        "goals_missed": "392",
+        "top_scorer": {
+            "name": "Erling Haaland",
+            "goals_scored": "23"
+        }
+    },
+    {
+        "team": "Greece",
+        "goals_scored": "386",
+        "goals_missed": "378",
+        "top_scorer": {
+            "name": "Angelos Charisteas",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Egypt",
+        "goals_scored": "375",
+        "goals_missed": "242",
+        "top_scorer": {
+            "name": "Hossam Hassan",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Croatia",
+        "goals_scored": "367",
+        "goals_missed": "206",
+        "top_scorer": {
+            "name": "Davor Šuker",
+            "goals_scored": "31"
+        }
+    },
+    {
+        "team": "Czech Republic",
+        "goals_scored": "366",
+        "goals_missed": "209",
+        "top_scorer": {
+            "name": "Jan Koller",
+            "goals_scored": "33"
+        }
+    },
+    {
+        "team": "Nigeria",
+        "goals_scored": "359",
+        "goals_missed": "213",
+        "top_scorer": {
+            "name": "Rashidi Yekini",
+            "goals_scored": "21"
+        }
+    },
+    {
+        "team": "Saudi Arabia",
+        "goals_scored": "357",
+        "goals_missed": "232",
+        "top_scorer": {
+            "name": "Sami Al-Jaber",
+            "goals_scored": "21"
+        }
+    },
+    {
+        "team": "Israel",
+        "goals_scored": "356",
+        "goals_missed": "351",
+        "top_scorer": {
+            "name": "Eran Zahavi",
+            "goals_scored": "31"
+        }
+    },
+    {
+        "team": "China PR",
+        "goals_scored": "355",
+        "goals_missed": "169",
+        "top_scorer": {
+            "name": "Yang Xu",
+            "goals_scored": "17"
+        }
+    },
+    {
+        "team": "Ecuador",
+        "goals_scored": "350",
+        "goals_missed": "564",
+        "top_scorer": {
+            "name": "Agustín Delgado",
+            "goals_scored": "23"
+        }
+    },
+    {
+        "team": "Wales",
+        "goals_scored": "346",
+        "goals_missed": "368",
+        "top_scorer": {
+            "name": "Gareth Bale",
+            "goals_scored": "35"
+        }
+    },
+    {
+        "team": "Honduras",
+        "goals_scored": "343",
+        "goals_missed": "313",
+        "top_scorer": {
+            "name": "Carlos Pavón",
+            "goals_scored": "34"
+        }
+    },
+    {
+        "team": "Cameroon",
+        "goals_scored": "323",
+        "goals_missed": "221",
+        "top_scorer": {
+            "name": "Samuel Eto'o",
+            "goals_scored": "40"
+        }
+    },
+    {
+        "team": "Ivory Coast",
+        "goals_scored": "317",
+        "goals_missed": "209",
+        "top_scorer": {
+            "name": "Didier Drogba",
+            "goals_scored": "31"
+        }
+    },
+    {
+        "team": "New Zealand",
+        "goals_scored": "317",
+        "goals_missed": "170",
+        "top_scorer": {
+            "name": "Vaughan Coveny",
+            "goals_scored": "23"
+        }
+    },
+    {
+        "team": "Northern Ireland",
+        "goals_scored": "317",
+        "goals_missed": "384",
+        "top_scorer": {
+            "name": "David Healy",
+            "goals_scored": "22"
+        }
+    },
+    {
+        "team": "Serbia",
+        "goals_scored": "314",
+        "goals_missed": "196",
+        "top_scorer": {
+            "name": "Aleksandar Mitrović",
+            "goals_scored": "47"
+        }
+    },
+    {
+        "team": "Yugoslavia",
+        "goals_scored": "313",
+        "goals_missed": "198",
+        "top_scorer": {
+            "name": "Zlatko Vujović",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Finland",
+        "goals_scored": "310",
+        "goals_missed": "498",
+        "top_scorer": {
+            "name": "Teemu Pukki",
+            "goals_scored": "31"
+        }
+    },
+    {
+        "team": "Bolivia",
+        "goals_scored": "303",
+        "goals_missed": "650",
+        "top_scorer": {
+            "name": "Marcelo Martins Moreno",
+            "goals_scored": "25"
+        }
+    },
+    {
+        "team": "Tunisia",
+        "goals_scored": "299",
+        "goals_missed": "214",
+        "top_scorer": {
+            "name": "Francileudo Santos",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Czechoslovakia",
+        "goals_scored": "293",
+        "goals_missed": "165",
+        "top_scorer": {
+            "name": "Zdeněk Nehoda",
+            "goals_scored": "16"
+        }
+    },
+    {
+        "team": "Ghana",
+        "goals_scored": "293",
+        "goals_missed": "190",
+        "top_scorer": {
+            "name": "Asamoah Gyan",
+            "goals_scored": "24"
+        }
+    },
+    {
+        "team": "El Salvador",
+        "goals_scored": "292",
+        "goals_missed": "283",
+        "top_scorer": {
+            "name": "Raúl Díaz Arce",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Qatar",
+        "goals_scored": "279",
+        "goals_missed": "200",
+        "top_scorer": {
+            "name": "Almoez Ali",
+            "goals_scored": "22"
+        }
+    },
+    {
+        "team": "Morocco",
+        "goals_scored": "278",
+        "goals_missed": "173",
+        "top_scorer": {
+            "name": "Ahmed Faras",
+            "goals_scored": "12"
+        }
+    },
+    {
+        "team": "Canada",
+        "goals_scored": "277",
+        "goals_missed": "229",
+        "top_scorer": {
+            "name": "Cyle Larin",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Slovakia",
+        "goals_scored": "276",
+        "goals_missed": "212",
+        "top_scorer": {
+            "name": "Marek Hamšík",
+            "goals_scored": "19"
+        }
+    },
+    {
+        "team": "Iraq",
+        "goals_scored": "273",
+        "goals_missed": "176",
+        "top_scorer": {
+            "name": "Younis Mahmoud",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Latvia",
+        "goals_scored": "271",
+        "goals_missed": "364",
+        "top_scorer": {
+            "name": "Māris Verpakovskis",
+            "goals_scored": "24"
+        }
+    },
+    {
+        "team": "Iceland",
+        "goals_scored": "267",
+        "goals_missed": "457",
+        "top_scorer": {
+            "name": "Gylfi Sigurðsson",
+            "goals_scored": "24"
+        }
+    },
+    {
+        "team": "Ukraine",
+        "goals_scored": "255",
+        "goals_missed": "184",
+        "top_scorer": {
+            "name": "Andriy Shevchenko",
+            "goals_scored": "40"
+        }
+    },
+    {
+        "team": "Algeria",
+        "goals_scored": "254",
+        "goals_missed": "211",
+        "top_scorer": {
+            "name": "Islam Slimani",
+            "goals_scored": "23"
+        }
+    },
+    {
+        "team": "Bosnia and Herzegovina",
+        "goals_scored": "241",
+        "goals_missed": "220",
+        "top_scorer": {
+            "name": "Edin Džeko",
+            "goals_scored": "50"
+        }
+    },
+    {
+        "team": "United Arab Emirates",
+        "goals_scored": "240",
+        "goals_missed": "202",
+        "top_scorer": {
+            "name": "Ali Mabkhout",
+            "goals_scored": "32"
+        }
+    },
+    {
+        "team": "Uzbekistan",
+        "goals_scored": "237",
+        "goals_missed": "156",
+        "top_scorer": {
+            "name": "Maksim Shatskikh",
+            "goals_scored": "19"
+        }
+    },
+    {
+        "team": "Slovenia",
+        "goals_scored": "236",
+        "goals_missed": "220",
+        "top_scorer": {
+            "name": "Zlatko Zahovič",
+            "goals_scored": "24"
+        }
+    },
+    {
+        "team": "Zambia",
+        "goals_scored": "236",
+        "goals_missed": "171",
+        "top_scorer": {
+            "name": "Kalusha Bwalya",
+            "goals_scored": "19"
+        }
+    },
+    {
+        "team": "Guatemala",
+        "goals_scored": "232",
+        "goals_missed": "214",
+        "top_scorer": {
+            "name": "Carlos Ruiz",
+            "goals_scored": "47"
+        }
+    },
+    {
+        "team": "DR Congo",
+        "goals_scored": "230",
+        "goals_missed": "214",
+        "top_scorer": {
+            "name": "Dieumerci Mbokani",
+            "goals_scored": "15"
+        }
+    },
+    {
+        "team": "Trinidad and Tobago",
+        "goals_scored": "229",
+        "goals_missed": "270",
+        "top_scorer": {
+            "name": "Stern John",
+            "goals_scored": "23"
+        }
+    },
+    {
+        "team": "Syria",
+        "goals_scored": "221",
+        "goals_missed": "140",
+        "top_scorer": {
+            "name": "Omar Khribin",
+            "goals_scored": "15"
+        }
+    },
+    {
+        "team": "Kuwait",
+        "goals_scored": "220",
+        "goals_missed": "155",
+        "top_scorer": {
+            "name": "Jasem Al-Huwaidi",
+            "goals_scored": "21"
+        }
+    },
+    {
+        "team": "Panama",
+        "goals_scored": "220",
+        "goals_missed": "227",
+        "top_scorer": {
+            "name": "Blas Pérez",
+            "goals_scored": "24"
+        }
+    },
+    {
+        "team": "Lithuania",
+        "goals_scored": "214",
+        "goals_missed": "382",
+        "top_scorer": {
+            "name": "Fedor Černych",
+            "goals_scored": "14"
+        }
+    },
+    {
+        "team": "North Macedonia",
+        "goals_scored": "206",
+        "goals_missed": "263",
+        "top_scorer": {
+            "name": "Goran Pandev",
+            "goals_scored": "16"
+        }
+    },
+    {
+        "team": "Estonia",
+        "goals_scored": "205",
+        "goals_missed": "443",
+        "top_scorer": {
+            "name": "Andres Oper",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Senegal",
+        "goals_scored": "205",
+        "goals_missed": "136",
+        "top_scorer": {
+            "name": "Sadio Mané",
+            "goals_scored": "17"
+        }
+    },
+    {
+        "team": "Cyprus",
+        "goals_scored": "203",
+        "goals_missed": "669",
+        "top_scorer": {
+            "name": "Michalis Konstantinou",
+            "goals_scored": "22"
+        }
+    },
+    {
+        "team": "Jamaica",
+        "goals_scored": "195",
+        "goals_missed": "264",
+        "top_scorer": {
+            "name": "Luton Shelton",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Albania",
+        "goals_scored": "193",
+        "goals_missed": "401",
+        "top_scorer": {
+            "name": "Erjon Bogdani",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Venezuela",
+        "goals_scored": "190",
+        "goals_missed": "525",
+        "top_scorer": {
+            "name": "Salomón Rondón",
+            "goals_scored": "17"
+        }
+    },
+    {
+        "team": "Guinea",
+        "goals_scored": "181",
+        "goals_missed": "182",
+        "top_scorer": {
+            "name": "Pascal Feindouno",
+            "goals_scored": "19"
+        }
+    },
+    {
+        "team": "Georgia",
+        "goals_scored": "176",
+        "goals_missed": "237",
+        "top_scorer": {
+            "name": "Shota Arveladze",
+            "goals_scored": "19"
+        }
+    },
+    {
+        "team": "Haiti",
+        "goals_scored": "169",
+        "goals_missed": "212",
+        "top_scorer": {
+            "name": "Golman Pierre",
+            "goals_scored": "15"
+        }
+    },
+    {
+        "team": "German DR",
+        "goals_scored": "166",
+        "goals_missed": "129",
+        "top_scorer": {
+            "name": "Joachim Streich",
+            "goals_scored": "25"
+        }
+    },
+    {
+        "team": "Luxembourg",
+        "goals_scored": "166",
+        "goals_missed": "810",
+        "top_scorer": {
+            "name": "Gerson Rodrigues",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Armenia",
+        "goals_scored": "157",
+        "goals_missed": "290",
+        "top_scorer": {
+            "name": "Henrikh Mkhitaryan",
+            "goals_scored": "20"
+        }
+    },
+    {
+        "team": "Belarus",
+        "goals_scored": "152",
+        "goals_missed": "253",
+        "top_scorer": {
+            "name": "Stanislaw Drahun",
+            "goals_scored": "10"
+        }
+    },
+    {
+        "team": "South Africa",
+        "goals_scored": "152",
+        "goals_missed": "128",
+        "top_scorer": {
+            "name": "Shaun Bartlett",
+            "goals_scored": "15"
+        }
+    },
+    {
+        "team": "Bahrain",
+        "goals_scored": "151",
+        "goals_missed": "142",
+        "top_scorer": {
+            "name": "Ismail Abdullatif",
+            "goals_scored": "16"
+        }
+    },
+    {
+        "team": "Kazakhstan",
+        "goals_scored": "149",
+        "goals_missed": "263",
+        "top_scorer": {
+            "name": "Bakhtiyar Zaynutdinov",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Oman",
+        "goals_scored": "149",
+        "goals_missed": "108",
+        "top_scorer": {
+            "name": "Yaqoob Juma Al-Mukhaini",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Burkina Faso",
+        "goals_scored": "148",
+        "goals_missed": "153",
+        "top_scorer": {
+            "name": "Moumouni Dagano",
+            "goals_scored": "19"
+        }
+    },
+    {
+        "team": "Jordan",
+        "goals_scored": "145",
+        "goals_missed": "115",
+        "top_scorer": {
+            "name": "Hassan Abdel-Fattah",
+            "goals_scored": "17"
+        }
+    },
+    {
+        "team": "Thailand",
+        "goals_scored": "144",
+        "goals_missed": "219",
+        "top_scorer": {
+            "name": "Kiatisuk Senamuang",
+            "goals_scored": "15"
+        }
+    },
+    {
+        "team": "North Korea",
+        "goals_scored": "136",
+        "goals_missed": "142",
+        "top_scorer": {
+            "name": "Hong Yong-jo",
+            "goals_scored": "8"
+        }
+    },
+    {
+        "team": "Mali",
+        "goals_scored": "131",
+        "goals_missed": "121",
+        "top_scorer": {
+            "name": "Frédéric Kanouté",
+            "goals_scored": "17"
+        }
+    },
+    {
+        "team": "Angola",
+        "goals_scored": "126",
+        "goals_missed": "113",
+        "top_scorer": {
+            "name": "Akwá",
+            "goals_scored": "14"
+        }
+    },
+    {
+        "team": "Fiji",
+        "goals_scored": "123",
+        "goals_missed": "150",
+        "top_scorer": {
+            "name": "Esala Masi",
+            "goals_scored": "14"
+        }
+    },
+    {
+        "team": "Tahiti",
+        "goals_scored": "120",
+        "goals_missed": "154",
+        "top_scorer": {
+            "name": "NA",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Moldova",
+        "goals_scored": "118",
+        "goals_missed": "315",
+        "top_scorer": {
+            "name": "Ion Nicolaescu",
+            "goals_scored": "13"
+        }
+    },
+    {
+        "team": "Cuba",
+        "goals_scored": "112",
+        "goals_missed": "229",
+        "top_scorer": {
+            "name": "Lester Moré",
+            "goals_scored": "14"
+        }
+    },
+    {
+        "team": "Montenegro",
+        "goals_scored": "112",
+        "goals_missed": "122",
+        "top_scorer": {
+            "name": "Stevan Jovetić",
+            "goals_scored": "24"
+        }
+    },
+    {
+        "team": "Solomon Islands",
+        "goals_scored": "112",
+        "goals_missed": "166",
+        "top_scorer": {
+            "name": "Commins Menapi",
+            "goals_scored": "12"
+        }
+    },
+    {
+        "team": "Lebanon",
+        "goals_scored": "110",
+        "goals_missed": "114",
+        "top_scorer": {
+            "name": "Roda Antar",
+            "goals_scored": "12"
+        }
+    },
+    {
+        "team": "Malta",
+        "goals_scored": "110",
+        "goals_missed": "679",
+        "top_scorer": {
+            "name": "Michael Mifsud",
+            "goals_scored": "15"
+        }
+    },
+    {
+        "team": "Faroe Islands",
+        "goals_scored": "107",
+        "goals_missed": "457",
+        "top_scorer": {
+            "name": "Klæmint Olsen",
+            "goals_scored": "8"
+        }
+    },
+    {
+        "team": "Hong Kong",
+        "goals_scored": "104",
+        "goals_missed": "170",
+        "top_scorer": {
+            "name": "Lau Wing Yip",
+            "goals_scored": "9"
+        }
+    },
+    {
+        "team": "Indonesia",
+        "goals_scored": "103",
+        "goals_missed": "213",
+        "top_scorer": {
+            "name": "Ilham Jaya Kesuma",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "New Caledonia",
+        "goals_scored": "102",
+        "goals_missed": "77",
+        "top_scorer": {
+            "name": "NA",
+            "goals_scored": "12"
+        }
+    },
+    {
+        "team": "Malaysia",
+        "goals_scored": "99",
+        "goals_missed": "149",
+        "top_scorer": {
+            "name": "Azman Adnan",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Congo",
+        "goals_scored": "96",
+        "goals_missed": "136",
+        "top_scorer": {
+            "name": "Jean-Michel M'Bono",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Azerbaijan",
+        "goals_scored": "95",
+        "goals_missed": "311",
+        "top_scorer": {
+            "name": "Emin Mahmudov",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Sudan",
+        "goals_scored": "93",
+        "goals_missed": "151",
+        "top_scorer": {
+            "name": "Haytham Tambal",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Togo",
+        "goals_scored": "93",
+        "goals_missed": "139",
+        "top_scorer": {
+            "name": "Emmanuel Adebayor",
+            "goals_scored": "17"
+        }
+    },
+    {
+        "team": "Kenya",
+        "goals_scored": "91",
+        "goals_missed": "132",
+        "top_scorer": {
+            "name": "Dennis Oliech",
+            "goals_scored": "16"
+        }
+    },
+    {
+        "team": "Bermuda",
+        "goals_scored": "87",
+        "goals_missed": "61",
+        "top_scorer": {
+            "name": "John Barry Nusum",
+            "goals_scored": "12"
+        }
+    },
+    {
+        "team": "Curaçao",
+        "goals_scored": "87",
+        "goals_missed": "136",
+        "top_scorer": {
+            "name": "Rocky Siberie",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Gabon",
+        "goals_scored": "84",
+        "goals_missed": "101",
+        "top_scorer": {
+            "name": "Pierre-Emerick Aubameyang",
+            "goals_scored": "13"
+        }
+    },
+    {
+        "team": "Turkmenistan",
+        "goals_scored": "82",
+        "goals_missed": "85",
+        "top_scorer": {
+            "name": "Begençmuhammet Kulyýew",
+            "goals_scored": "8"
+        }
+    },
+    {
+        "team": "Ethiopia",
+        "goals_scored": "81",
+        "goals_missed": "138",
+        "top_scorer": {
+            "name": "Mengistu Worku",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Suriname",
+        "goals_scored": "81",
+        "goals_missed": "104",
+        "top_scorer": {
+            "name": "Nigel Hasselbaink",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Singapore",
+        "goals_scored": "80",
+        "goals_missed": "140",
+        "top_scorer": {
+            "name": "Aleksandar Đurić",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Zimbabwe",
+        "goals_scored": "80",
+        "goals_missed": "116",
+        "top_scorer": {
+            "name": "Peter Ndlovu",
+            "goals_scored": "14"
+        }
+    },
+    {
+        "team": "Saint Vincent and the Grenadines",
+        "goals_scored": "77",
+        "goals_missed": "197",
+        "top_scorer": {
+            "name": "Rodney Jack",
+            "goals_scored": "10"
+        }
+    },
+    {
+        "team": "Libya",
+        "goals_scored": "76",
+        "goals_missed": "86",
+        "top_scorer": {
+            "name": "Ahmed Saad Osman",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Tajikistan",
+        "goals_scored": "74",
+        "goals_missed": "70",
+        "top_scorer": {
+            "name": "Manuchekhr Dzhalilov",
+            "goals_scored": "10"
+        }
+    },
+    {
+        "team": "Vanuatu",
+        "goals_scored": "74",
+        "goals_missed": "137",
+        "top_scorer": {
+            "name": "Richard Iwai",
+            "goals_scored": "9"
+        }
+    },
+    {
+        "team": "Vietnam",
+        "goals_scored": "74",
+        "goals_missed": "123",
+        "top_scorer": {
+            "name": "Lê Công Vinh",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Saint Kitts and Nevis",
+        "goals_scored": "72",
+        "goals_missed": "72",
+        "top_scorer": {
+            "name": "Ian Lake",
+            "goals_scored": "10"
+        }
+    },
+    {
+        "team": "Malawi",
+        "goals_scored": "67",
+        "goals_missed": "108",
+        "top_scorer": {
+            "name": "Chiukepo Msowoya",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Uganda",
+        "goals_scored": "65",
+        "goals_missed": "97",
+        "top_scorer": {
+            "name": "Emmanuel Okwi",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Kyrgyzstan",
+        "goals_scored": "64",
+        "goals_missed": "70",
+        "top_scorer": {
+            "name": "Mirlan Murzaev",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Antigua and Barbuda",
+        "goals_scored": "63",
+        "goals_missed": "66",
+        "top_scorer": {
+            "name": "Peter Byers",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Kosovo",
+        "goals_scored": "61",
+        "goals_missed": "80",
+        "top_scorer": {
+            "name": "Vedat Muriqi",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Palestine",
+        "goals_scored": "61",
+        "goals_missed": "65",
+        "top_scorer": {
+            "name": "Oday Dabbagh",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "India",
+        "goals_scored": "60",
+        "goals_missed": "128",
+        "top_scorer": {
+            "name": "Sunil Chhetri",
+            "goals_scored": "13"
+        }
+    },
+    {
+        "team": "Papua New Guinea",
+        "goals_scored": "60",
+        "goals_missed": "81",
+        "top_scorer": {
+            "name": "Raymond Gunemba",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Yemen",
+        "goals_scored": "58",
+        "goals_missed": "105",
+        "top_scorer": {
+            "name": "Ali Al-Nono",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Liechtenstein",
+        "goals_scored": "57",
+        "goals_missed": "467",
+        "top_scorer": {
+            "name": "Mario Frick",
+            "goals_scored": "11"
+        }
+    },
+    {
+        "team": "Benin",
+        "goals_scored": "56",
+        "goals_missed": "118",
+        "top_scorer": {
+            "name": "Razak Omotoyossi",
+            "goals_scored": "13"
+        }
+    },
+    {
+        "team": "Namibia",
+        "goals_scored": "56",
+        "goals_missed": "125",
+        "top_scorer": {
+            "name": "Eliphas Shivute",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Liberia",
+        "goals_scored": "55",
+        "goals_missed": "106",
+        "top_scorer": {
+            "name": "George Weah",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Madagascar",
+        "goals_scored": "55",
+        "goals_missed": "67",
+        "top_scorer": {
+            "name": "Faneva Imà Andriatsima",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Tanzania",
+        "goals_scored": "52",
+        "goals_missed": "83",
+        "top_scorer": {
+            "name": "Mbwana Samatta",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Cape Verde",
+        "goals_scored": "50",
+        "goals_missed": "58",
+        "top_scorer": {
+            "name": "Arlindo Gomes Semedo",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Dominican Republic",
+        "goals_scored": "50",
+        "goals_missed": "48",
+        "top_scorer": {
+            "name": "Erick Ozuna",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Andorra",
+        "goals_scored": "47",
+        "goals_missed": "397",
+        "top_scorer": {
+            "name": "Ildefons Lima",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Grenada",
+        "goals_scored": "47",
+        "goals_missed": "87",
+        "top_scorer": {
+            "name": "Ricky Charles",
+            "goals_scored": "8"
+        }
+    },
+    {
+        "team": "Equatorial Guinea",
+        "goals_scored": "45",
+        "goals_missed": "52",
+        "top_scorer": {
+            "name": "Emilio Nsue",
+            "goals_scored": "8"
+        }
+    },
+    {
+        "team": "Sierra Leone",
+        "goals_scored": "44",
+        "goals_missed": "86",
+        "top_scorer": {
+            "name": "Sheriff Suma",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Rwanda",
+        "goals_scored": "43",
+        "goals_missed": "67",
+        "top_scorer": {
+            "name": "Meddie Kagere",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Taiwan",
+        "goals_scored": "43",
+        "goals_missed": "244",
+        "top_scorer": {
+            "name": "Chen Jui-te",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Mozambique",
+        "goals_scored": "42",
+        "goals_missed": "90",
+        "top_scorer": {
+            "name": "Dário Monteiro",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Nicaragua",
+        "goals_scored": "42",
+        "goals_missed": "98",
+        "top_scorer": {
+            "name": "Juan Barrera",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Maldives",
+        "goals_scored": "41",
+        "goals_missed": "142",
+        "top_scorer": {
+            "name": "Ali Ashfaq",
+            "goals_scored": "14"
+        }
+    },
+    {
+        "team": "Bangladesh",
+        "goals_scored": "38",
+        "goals_missed": "159",
+        "top_scorer": {
+            "name": "Alfaz Ahmed",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Belize",
+        "goals_scored": "38",
+        "goals_missed": "68",
+        "top_scorer": {
+            "name": "Deon McCaulay",
+            "goals_scored": "18"
+        }
+    },
+    {
+        "team": "Niger",
+        "goals_scored": "38",
+        "goals_missed": "70",
+        "top_scorer": {
+            "name": "Victorien Adebayor",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Barbados",
+        "goals_scored": "34",
+        "goals_missed": "68",
+        "top_scorer": {
+            "name": "Jerry Alexander",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Botswana",
+        "goals_scored": "32",
+        "goals_missed": "62",
+        "top_scorer": {
+            "name": "Diphetogo Selolwane",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Saint Lucia",
+        "goals_scored": "32",
+        "goals_missed": "62",
+        "top_scorer": {
+            "name": "Earl Jean",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Guyana",
+        "goals_scored": "31",
+        "goals_missed": "72",
+        "top_scorer": {
+            "name": "Neil Danns",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Cambodia",
+        "goals_scored": "30",
+        "goals_missed": "140",
+        "top_scorer": {
+            "name": "Doeur Sokhom",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Puerto Rico",
+        "goals_scored": "30",
+        "goals_missed": "33",
+        "top_scorer": {
+            "name": "Héctor Ramos",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Samoa",
+        "goals_scored": "29",
+        "goals_missed": "92",
+        "top_scorer": {
+            "name": "Desmond Fa'aiuaso",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Philippines",
+        "goals_scored": "28",
+        "goals_missed": "76",
+        "top_scorer": {
+            "name": "Stephan Schröck",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Gambia",
+        "goals_scored": "27",
+        "goals_missed": "48",
+        "top_scorer": {
+            "name": "Ablie Jallow",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Nepal",
+        "goals_scored": "27",
+        "goals_missed": "120",
+        "top_scorer": {
+            "name": "Nirajan Rayamajhi",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Martinique",
+        "goals_scored": "25",
+        "goals_missed": "58",
+        "top_scorer": {
+            "name": "Kévin Parsemain",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Aruba",
+        "goals_scored": "23",
+        "goals_missed": "58",
+        "top_scorer": {
+            "name": "Maurice Escalona",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "San Marino",
+        "goals_scored": "23",
+        "goals_missed": "734",
+        "top_scorer": {
+            "name": "Andy Selva",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Sri Lanka",
+        "goals_scored": "23",
+        "goals_missed": "100",
+        "top_scorer": {
+            "name": "Channa Ediri Bandanage",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Gibraltar",
+        "goals_scored": "22",
+        "goals_missed": "245",
+        "top_scorer": {
+            "name": "Lee Casciaro",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Guadeloupe",
+        "goals_scored": "22",
+        "goals_missed": "31",
+        "top_scorer": {
+            "name": "Matthias Phaëton",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Dominica",
+        "goals_scored": "20",
+        "goals_missed": "57",
+        "top_scorer": {
+            "name": "Vincent Casimir",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Laos",
+        "goals_scored": "20",
+        "goals_missed": "124",
+        "top_scorer": {
+            "name": "Visay Phaphouvanin",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Bahamas",
+        "goals_scored": "19",
+        "goals_missed": "59",
+        "top_scorer": {
+            "name": "Lesly St. Fleur",
+            "goals_scored": "7"
+        }
+    },
+    {
+        "team": "Burundi",
+        "goals_scored": "19",
+        "goals_missed": "28",
+        "top_scorer": {
+            "name": "Cédric Amissi",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Guinea-Bissau",
+        "goals_scored": "19",
+        "goals_missed": "48",
+        "top_scorer": {
+            "name": "Joseph Mendes",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Mauritania",
+        "goals_scored": "19",
+        "goals_missed": "57",
+        "top_scorer": {
+            "name": "Boubacar Bagili",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Myanmar",
+        "goals_scored": "19",
+        "goals_missed": "75",
+        "top_scorer": {
+            "name": "Aung Thu",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Montserrat",
+        "goals_scored": "17",
+        "goals_missed": "49",
+        "top_scorer": {
+            "name": "Lyle Taylor",
+            "goals_scored": "6"
+        }
+    },
+    {
+        "team": "Tonga",
+        "goals_scored": "17",
+        "goals_missed": "72",
+        "top_scorer": {
+            "name": "Lokoua Taufahema",
+            "goals_scored": "5"
+        }
+    },
+    {
+        "team": "Chad",
+        "goals_scored": "16",
+        "goals_missed": "26",
+        "top_scorer": {
+            "name": "Francis Oumar",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Eswatini",
+        "goals_scored": "16",
+        "goals_missed": "41",
+        "top_scorer": {
+            "name": "Sandile Hlatjwako",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Macau",
+        "goals_scored": "16",
+        "goals_missed": "164",
+        "top_scorer": {
+            "name": "Alberto Carvalhal",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Mauritius",
+        "goals_scored": "16",
+        "goals_missed": "59",
+        "top_scorer": {
+            "name": "Daniel Imbert",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Afghanistan",
+        "goals_scored": "15",
+        "goals_missed": "58",
+        "top_scorer": {
+            "name": "Khaibar Amani",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Lesotho",
+        "goals_scored": "15",
+        "goals_missed": "51",
+        "top_scorer": {
+            "name": "Tsepo Seturumane",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Pakistan",
+        "goals_scored": "13",
+        "goals_missed": "122",
+        "top_scorer": {
+            "name": "Gohar Zaman",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Central African Republic",
+        "goals_scored": "12",
+        "goals_missed": "30",
+        "top_scorer": {
+            "name": "Foxi Kéthévoama",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Cook Islands",
+        "goals_scored": "12",
+        "goals_missed": "97",
+        "top_scorer": {
+            "name": "Taylor Saghabi",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Djibouti",
+        "goals_scored": "12",
+        "goals_missed": "85",
+        "top_scorer": {
+            "name": "Abdi Idleh Hamza",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "Mongolia",
+        "goals_scored": "11",
+        "goals_missed": "73",
+        "top_scorer": {
+            "name": "Norjmoogiin Tsedenbal",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "American Samoa",
+        "goals_scored": "10",
+        "goals_missed": "96",
+        "top_scorer": {
+            "name": "Frankie Beauchamp",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Bhutan",
+        "goals_scored": "9",
+        "goals_missed": "58",
+        "top_scorer": {
+            "name": "Chencho Gyeltshen",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "Comoros",
+        "goals_scored": "9",
+        "goals_missed": "27",
+        "top_scorer": {
+            "name": "Ahmed Mogni",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Guam",
+        "goals_scored": "9",
+        "goals_missed": "83",
+        "top_scorer": {
+            "name": "Jason Cunliffe",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Cayman Islands",
+        "goals_scored": "8",
+        "goals_missed": "53",
+        "top_scorer": {
+            "name": "Mark Ebanks",
+            "goals_scored": "4"
+        }
+    },
+    {
+        "team": "United States Virgin Islands",
+        "goals_scored": "8",
+        "goals_missed": "94",
+        "top_scorer": {
+            "name": "Jamie Browne",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Vietnam Republic",
+        "goals_scored": "8",
+        "goals_missed": "26",
+        "top_scorer": {
+            "name": "Lê Hữu Đức",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "British Virgin Islands",
+        "goals_scored": "7",
+        "goals_missed": "53",
+        "top_scorer": {
+            "name": "Avondale Williams",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Seychelles",
+        "goals_scored": "6",
+        "goals_missed": "46",
+        "top_scorer": {
+            "name": "Philip Zialor",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Timor-Leste",
+        "goals_scored": "6",
+        "goals_missed": "61",
+        "top_scorer": {
+            "name": "Emílio da Silva",
+            "goals_scored": "3"
+        }
+    },
+    {
+        "team": "Brunei",
+        "goals_scored": "5",
+        "goals_missed": "61",
+        "top_scorer": {
+            "name": "Razimie Ramlli",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "São Tomé and Príncipe",
+        "goals_scored": "5",
+        "goals_missed": "25",
+        "top_scorer": {
+            "name": "Amilcar Ramos",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "Turks and Caicos Islands",
+        "goals_scored": "5",
+        "goals_missed": "67",
+        "top_scorer": {
+            "name": "Widlin Calixte",
+            "goals_scored": "2"
+        }
+    },
+    {
+        "team": "Eritrea",
+        "goals_scored": "4",
+        "goals_missed": "19",
+        "top_scorer": {
+            "name": "Abraham Tedros",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "Saarland",
+        "goals_scored": "4",
+        "goals_missed": "8",
+        "top_scorer": {
+            "name": "Gerhard Siedl",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "Yemen DPR",
+        "goals_scored": "4",
+        "goals_missed": "16",
+        "top_scorer": {
+            "name": "Abubakar Al-Mass",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "Somalia",
+        "goals_scored": "3",
+        "goals_missed": "29",
+        "top_scorer": {
+            "name": "Anwar Shakunda",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "Anguilla",
+        "goals_scored": "2",
+        "goals_missed": "63",
+        "top_scorer": {
+            "name": "Kenneth Hughes",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "French Guiana",
+        "goals_scored": "2",
+        "goals_missed": "7",
+        "top_scorer": {
+            "name": "Roy Contout",
+            "goals_scored": "1"
+        }
+    },
+    {
+        "team": "South Sudan",
+        "goals_scored": "1",
+        "goals_missed": "8",
+        "top_scorer": {
+            "name": "Dominic Abui Pretino",
+            "goals_scored": "1"
+        }
+    }
+]

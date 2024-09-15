@@ -47,7 +47,7 @@ public class ComandStatistic {
         goals_missed++;
     }
 
-    public List<String> mainComandData() {
+    public List<String> getComandData() {
         return new ArrayList<>(Arrays.asList(name, String.valueOf(goals_scored),
                 String.valueOf(goals_missed),bestScorer,String.valueOf(bestGoal)));
     }
